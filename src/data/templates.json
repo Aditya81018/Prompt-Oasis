@@ -1,0 +1,222 @@
+[
+    {
+        "id": "blog_post_idea",
+        "name": "Blog Post Idea Generator",
+        "description": "Generate unique blog post ideas tailored to a niche or audience.",
+        "sections": [
+            {
+                "title": "Topic or Niche",
+                "placeholder": "e.g., AI, fitness, travel",
+                "default": ""
+            },
+            {
+                "title": "Target Audience",
+                "placeholder": "e.g., college students, entrepreneurs",
+                "default": ""
+            },
+            {
+                "title": "Tone",
+                "placeholder": "e.g., professional, casual, witty",
+                "default": "professional"
+            }
+        ]
+    },
+    {
+        "id": "resume_summary",
+        "name": "Resume Summary Writer",
+        "description": "Craft a compelling resume summary based on career goals and skills.",
+        "sections": [
+            {
+                "title": "Job Role",
+                "placeholder": "e.g., Software Engineer, Data Analyst",
+                "default": ""
+            },
+            {
+                "title": "Years of Experience",
+                "placeholder": "e.g., 3, 7, 10+",
+                "default": ""
+            },
+            {
+                "title": "Key Skills",
+                "placeholder": "e.g., Python, project management",
+                "default": ""
+            }
+        ]
+    },
+    {
+        "id": "cold_email",
+        "name": "Cold Email Template",
+        "description": "Generate a professional cold email to reach out to clients or employers.",
+        "sections": [
+            {
+                "title": "Recipient Role",
+                "placeholder": "e.g., HR Manager, CEO",
+                "default": ""
+            },
+            {
+                "title": "Sender’s Goal",
+                "placeholder": "e.g., job application, pitching a service",
+                "default": ""
+            },
+            {
+                "title": "Call to Action",
+                "placeholder": "e.g., schedule a meeting, review my resume",
+                "default": ""
+            }
+        ]
+    },
+    {
+        "id": "lesson_plan",
+        "name": "Lesson Plan Generator",
+        "description": "Create a structured lesson plan for teaching a specific topic.",
+        "sections": [
+            {
+                "title": "Subject",
+                "placeholder": "e.g., Mathematics, History",
+                "default": ""
+            },
+            {
+                "title": "Grade Level",
+                "placeholder": "e.g., 8th grade, college",
+                "default": ""
+            },
+            {
+                "title": "Lesson Duration",
+                "placeholder": "e.g., 45 minutes, 2 hours",
+                "default": "45 minutes"
+            }
+        ]
+    },
+    {
+        "id": "quiz_questions",
+        "name": "Quiz Question Creator",
+        "description": "Generate quiz questions and answers on a given topic.",
+        "sections": [
+            {
+                "title": "Topic",
+                "placeholder": "e.g., World War II, Python programming",
+                "default": ""
+            },
+            {
+                "title": "Difficulty Level",
+                "placeholder": "easy, medium, hard",
+                "default": "medium"
+            },
+            {
+                "title": "Question Type",
+                "placeholder": "MCQ, True/False, Short Answer",
+                "default": "MCQ"
+            }
+        ]
+    },
+    {
+        "id": "marketing_copy",
+        "name": "Marketing Copy Generator",
+        "description": "Write engaging marketing copy for a product or service.",
+        "sections": [
+            {
+                "title": "Product/Service Name",
+                "placeholder": "e.g., Fitness App, Coffee Subscription",
+                "default": ""
+            },
+            {
+                "title": "Unique Selling Point",
+                "placeholder": "e.g., affordable, eco-friendly, AI-powered",
+                "default": ""
+            },
+            {
+                "title": "Target Audience",
+                "placeholder": "e.g., students, small business owners",
+                "default": ""
+            }
+        ]
+    },
+    {
+        "id": "code_explainer",
+        "name": "Code Explainer",
+        "description": "Explain code snippets in simple terms.",
+        "sections": [
+            {
+                "title": "Programming Language",
+                "placeholder": "e.g., Python, JavaScript",
+                "default": ""
+            },
+            {
+                "title": "Code Snippet",
+                "placeholder": "Paste your code here...",
+                "default": ""
+            },
+            {
+                "title": "Target Audience",
+                "placeholder": "e.g., beginner, intermediate, expert",
+                "default": "beginner"
+            }
+        ]
+    },
+    {
+        "id": "story_prompt",
+        "name": "Story Prompt Generator",
+        "description": "Generate a creative story prompt for writers.",
+        "sections": [
+            {
+                "title": "Genre",
+                "placeholder": "e.g., fantasy, sci-fi, romance",
+                "default": "fantasy"
+            },
+            {
+                "title": "Main Character",
+                "placeholder": "e.g., detective, alien, orphan",
+                "default": ""
+            },
+            {
+                "title": "Setting",
+                "placeholder": "e.g., ancient Rome, cyberpunk city",
+                "default": ""
+            }
+        ]
+    },
+    {
+        "id": "social_media_caption",
+        "name": "Social Media Caption Generator",
+        "description": "Generate catchy captions for social media posts.",
+        "sections": [
+            {
+                "title": "Platform",
+                "placeholder": "e.g., Instagram, LinkedIn, Twitter",
+                "default": "Instagram"
+            },
+            {
+                "title": "Post Content",
+                "placeholder": "e.g., beach photo, new product launch",
+                "default": ""
+            },
+            {
+                "title": "Tone",
+                "placeholder": "e.g., humorous, inspirational, professional",
+                "default": "humorous"
+            }
+        ]
+    },
+    {
+        "id": "research_summary",
+        "name": "Research Summary Generator",
+        "description": "Summarize research papers or articles into key points.",
+        "sections": [
+            {
+                "title": "Topic",
+                "placeholder": "e.g., quantum computing, climate change",
+                "default": ""
+            },
+            {
+                "title": "Length of Summary",
+                "placeholder": "e.g., 200 words, 5 bullet points",
+                "default": "200 words"
+            },
+            {
+                "title": "Target Audience",
+                "placeholder": "e.g., high school students, researchers",
+                "default": "students"
+            }
+        ]
+    }
+]
